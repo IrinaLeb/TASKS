@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Иринка\\Desktop\\SiminarTasks\\Task 31\\Task 31.csproj": {}
+    "C:\\Users\\Иринка\\Documents\\Курс РАЗРАБОТЧИК\\SiminarTasks\\Task 31\\Task 31.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Иринка\\Desktop\\SiminarTasks\\Task 31\\Task 31.csproj": {
+    "C:\\Users\\Иринка\\Documents\\Курс РАЗРАБОТЧИК\\SiminarTasks\\Task 31\\Task 31.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Иринка\\Desktop\\SiminarTasks\\Task 31\\Task 31.csproj",
+        "projectUniqueName": "C:\\Users\\Иринка\\Documents\\Курс РАЗРАБОТЧИК\\SiminarTasks\\Task 31\\Task 31.csproj",
         "projectName": "Task 31",
-        "projectPath": "C:\\Users\\Иринка\\Desktop\\SiminarTasks\\Task 31\\Task 31.csproj",
+        "projectPath": "C:\\Users\\Иринка\\Documents\\Курс РАЗРАБОТЧИК\\SiminarTasks\\Task 31\\Task 31.csproj",
         "packagesPath": "C:\\Users\\Иринка\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Иринка\\Desktop\\SiminarTasks\\Task 31\\obj\\",
+        "outputPath": "C:\\Users\\Иринка\\Documents\\Курс РАЗРАБОТЧИК\\SiminarTasks\\Task 31\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Иринка\\AppData\\Roaming\\NuGet\\NuGet.Config"
