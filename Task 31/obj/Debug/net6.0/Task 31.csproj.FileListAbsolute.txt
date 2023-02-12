@@ -1,0 +1,15 @@
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\bin\Debug\net6.0\Task 31.exe
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\bin\Debug\net6.0\Task 31.deps.json
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\bin\Debug\net6.0\Task 31.runtimeconfig.json
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\bin\Debug\net6.0\Task 31.dll
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\bin\Debug\net6.0\Task 31.pdb
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\obj\Debug\net6.0\Task 31.csproj.AssemblyReference.cache
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\obj\Debug\net6.0\Task 31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\obj\Debug\net6.0\Task 31.AssemblyInfoInputs.cache
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\obj\Debug\net6.0\Task 31.AssemblyInfo.cs
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\obj\Debug\net6.0\Task 31.csproj.CoreCompileInputs.cache
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\obj\Debug\net6.0\Task 31.dll
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\obj\Debug\net6.0\refint\Task 31.dll
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\obj\Debug\net6.0\Task 31.pdb
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\obj\Debug\net6.0\Task 31.genruntimeconfig.cache
+C:\Users\Иринка\Desktop\SiminarTasks\Task 31\obj\Debug\net6.0\ref\Task 31.dll
