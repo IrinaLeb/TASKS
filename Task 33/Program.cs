@@ -6,33 +6,33 @@ Console.Clear();
 
 int[] GetArray(int size, int MinValue, int MaxValue)
 {
-int[] Result = new int[size];
+    int[] Result = new int[size];
 
-for (int i = 0; i < size; i++)
-{
-Result[i] = new Random().Next(MinValue, MaxValue + 1);
-}
-return Result;
+    for (int i = 0; i < size; i++)
+    {
+        Result[i] = new Random().Next(MinValue, MaxValue + 1);
+    }
+    return Result;
 }
 
 bool FindElement(int number, int[] collection)
 {
-foreach (int el in collection)
-{
-if (el == number)
-{
-return true;
-}
-}
-return false;
+    foreach (int el in collection)
+    {
+        if (el == number)
+        {
+            return true;
+        }
+    }
+    return false;
 }
 int[] array = GetArray(12, -9, 9);
-System.Console.WriteLine(string.Join(", ", array));
+Console.WriteLine(string.Join(", ", array));
 Console.Write("Введите число: ");
 int n = int.Parse(Console.ReadLine()!);
 if (FindElement(n, array))
 {
-System.Console.WriteLine("Да");
+    Console.WriteLine("Да");
 }
 else
 {
