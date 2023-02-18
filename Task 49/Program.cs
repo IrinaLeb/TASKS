@@ -55,6 +55,5 @@ int col = int.Parse(Console.ReadLine()!);
 
 int[,] array2D = GetArray(row, col, -10, 10);
 PrintArray(array2D);
-Console.WriteLine();
 GetSqrArray(array2D);
 PrintArray(array2D);
